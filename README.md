@@ -18,10 +18,27 @@ Link for the Datasets: [Customers Dataset ](https://github.com/sumedhkulkarni7/D
 
 Link for the Datasets: [Products Dataset ](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/products.csv)
 
+
 ## Data Modelling
 
 ![Data Modelling](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/Power%20Pivot%201.PNG)
 
+
 ## Heatmap - Yearly Profit by Coffee Type
 
 ![Yearly Profit by Coffee Type](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/yearl%20Profit%20Pivot%20Table.PNG)
+
+
+## Line Chart - Profit by Coffee Type
+
+![Profit by Coffee Type](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/Profit%20vs%20Coffee%20type%20Line%20Chart.PNG)
+
+
+## Heatmap - Profit by month and Coffee Type
+
+![Profit by month and Coffee Type](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/Monthly%20Profit%20Heatmap.PNG)
+
+
+## Returning Cutomer Profit Share Analysis
+
+![Returning customer](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/returning%20customer%20profit%20per%20order.PNG)
