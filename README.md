@@ -11,3 +11,15 @@ Explore the highest coffee sales per year and by the coffee type. .
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
+
+Link for the Datasets: [Orders Dataset ](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/orders.csv)
+Link for the Datasets: [Customers Dataset ](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/customers.csv)
+Link for the Datasets: [Products Dataset ](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/products.csv)
+
+## Data Modelling
+
+![Data Modelling](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/Power%20Pivot%201.PNG)
+
+## Heatmap
+
+![Yearly by Coffee Type](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/yearl%20Profit%20Pivot%20Table.PNG)
