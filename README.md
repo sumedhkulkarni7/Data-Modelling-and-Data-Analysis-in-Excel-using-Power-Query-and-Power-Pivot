@@ -42,3 +42,10 @@ Link for the Datasets: [Products Dataset ](https://github.com/sumedhkulkarni7/Da
 ## Returning Cutomer Profit Share Analysis
 
 ![Returning customer](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/returning%20customer%20profit%20per%20order.PNG)
+
+
+## Dashboard
+![Dashboard](https://github.com/sumedhkulkarni7/Data-Modelling-and-Data-Analysis-in-Excel-using-Power-Query-and-Power-Pivot/blob/main/Dashboard.PNG)
+
+
+
